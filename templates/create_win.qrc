@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../images/directory-Photoroom.png</file>
+  </qresource>
+</RCC>

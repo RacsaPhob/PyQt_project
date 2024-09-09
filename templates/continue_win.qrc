@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/image_not_found.jpg</file>
+    <file>images/settings_1264592.png</file>
+  </qresource>
+</RCC>
